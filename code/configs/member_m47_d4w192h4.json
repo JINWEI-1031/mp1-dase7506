@@ -1,0 +1,10 @@
+{
+  "vocab": 2048,
+  "context": 256,
+  "width": 192,
+  "heads": 4,
+  "depth": 4,
+  "pos_mode": 1,
+  "qk_norm": 1,
+  "rope_base": 10000.0
+}
